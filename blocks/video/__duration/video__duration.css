@@ -1,0 +1,10 @@
+.video__duration{
+    grid-row: 2/3;
+    grid-column: 1/2;
+    margin: 12% 0 0 30px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+}

@@ -1,0 +1,10 @@
+.video__subtitle{
+    grid-row: 4/5;
+    grid-column: 1/2;
+    margin: 3% 0 0 30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 15px;
+    padding: 0;
+}

@@ -1,0 +1,10 @@
+.cover__link{
+    display: grid;
+    padding-top: 0;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    min-height: 594px;
+    max-width: 100%;
+    text-decoration: none;
+    color: #FFFFFF;
+}
