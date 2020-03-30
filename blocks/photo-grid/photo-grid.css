@@ -37,3 +37,9 @@
         grid-template-columns: repeat(1,auto);
     }
 }
+
+@media screen and (max-width: 320px){
+    .photo-grid{
+        max-width: 288px;
+    }
+}

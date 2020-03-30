@@ -9,3 +9,6 @@
     margin-bottom: 60px;
 }
 
+.places__url:hover{
+    opacity: 0.7;
+}

@@ -1,7 +1,5 @@
-
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-@import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/lead/lead.css);
@@ -11,6 +9,12 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/content-title/content-title.css);
 @import url(../blocks/content-subtitle/content-subtitle.css);
+@import url(../blocks/content-row/content-row.css);
+@import url(../blocks/content-bold/content-bold.css);
 @import url(../blocks/comments/comments.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
+
+body{
+    background-color: #2A2C2F;
+}

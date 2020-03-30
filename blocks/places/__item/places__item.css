@@ -17,11 +17,16 @@
     }
 }
 
-@media screen and (max-width: 375px) {
-    .places__item {
-        max-width: 375px;
+@media screen and (max-width: 558px) {
+    .places__item{
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(3, auto);
         padding-top: 48px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .places__item {
+        max-width: 375px;
     }
 }

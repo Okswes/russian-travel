@@ -13,3 +13,35 @@
 .video__item:hover .video__item-bg{
     opacity: 0.3;
 }
+
+@media screen and (max-width: 1024px) {
+    .video__item{
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .video__item {
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .video__item{
+        max-width: 680px;
+        margin-top: 8px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .video__item{
+        max-width: 343px;
+        margin-top: 8px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .video__item {
+        max-width: 288px;
+    }  
+}

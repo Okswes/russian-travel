@@ -8,3 +8,24 @@
     line-height: 15px;
     padding: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .video__subtitle{
+        margin: 3% 0 0 10px;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+    .video__subtitle{
+        max-width: 270px;
+        margin: 3% 0 0 30px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .video__subtitle{
+        margin: 1% 0 0 30px;
+        max-width: 270px;
+    }
+}
