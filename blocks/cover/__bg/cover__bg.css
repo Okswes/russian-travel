@@ -4,7 +4,12 @@
     background-image: url(../../../images/cover.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    width: 100%; 
+    width: 100%;
+    background-color: rgba(42, 44, 47, 0.3);   
+}
+
+.cover__bg:hover{
+    background-blend-mode: overlay;
 }
 
 @media screen and (max-width: 768px) {

@@ -6,13 +6,8 @@
 .cover{
     margin: 102px auto 0;
     overflow: hidden;
-    max-width: 1184px;  
+    max-width: 1184px;
 }
-
-.cover:hover .cover__bg{
-    opacity: 0.3;
-}
-
 
 @media screen and (max-width: 1024px) {
     .cover {
