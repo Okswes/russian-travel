@@ -1,6 +1,8 @@
 @import url(./__aligner/intro__aligner.css);
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
+@import url(./__content_row/intro__content_row.css);
+@import url(./__content_bold/intro__content_bold.css);
 
 .intro{
     max-width: 985px;
