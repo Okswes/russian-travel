@@ -1,0 +1,6 @@
+@import url(./_type/intro__content_type_bold.css);
+@import url(./_type/intro__content_type_row.css);
+
+.intro__content{
+    font-style: normal;
+}

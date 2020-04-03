@@ -1,4 +1,4 @@
-.intro__content_row{
+.intro__content_type_row{
     margin-top: 48px;
     font-style: normal;
     font-weight: normal;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 375px) {
-    .intro__content_row {
+    .intro__content_type_row {
         font-size: 16px;
         line-height: 27px;
     }

@@ -9,6 +9,11 @@
     max-width: 1184px;
 }
 
+.cover:hover .cover__bg{
+    background-color: rgba(42, 44, 47, 0.8);   
+    background-blend-mode: overlay;
+}
+
 @media screen and (max-width: 1024px) {
     .cover {
         max-width: 1045px;
